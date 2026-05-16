@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 568 756">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        filter: url(#drop-shadow-1);
+      }
+    </style>
+    <filter id="drop-shadow-1" x="0" y="0" width="568" height="756" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="16.53"/>
+      <feFlood flood-color="#000" flood-opacity=".3"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_Щит_с_защипом" data-name="Щит с защипом">
+    <path class="cls-1" d="M386.14,49.66H50.21v502.04c0,38.77,18.66,75.42,50.69,99.57,60.9,45.91,121.81,7.54,182.71,53.45l.02-.12.02.12c60.9-45.91,121.81-7.54,182.71-53.45,32.03-24.15,50.69-60.8,50.69-99.57V49.66h-130.92Z"/>
+  </g>
+</svg>

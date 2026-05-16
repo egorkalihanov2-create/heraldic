@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_2" data-name="Слой 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 566 755">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        filter: url(#drop-shadow-1);
+      }
+    </style>
+    <filter id="drop-shadow-1" x="0" y="0" width="566" height="755" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="16.53"/>
+      <feFlood flood-color="#000" flood-opacity=".3"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="_Щит-билет" data-name="Щит-билет">
+    <path class="cls-1" d="M497.04,204.93c0-8.12,5.17-15.03,12.4-17.63,3.59-1.29,6.04-4.61,6.04-8.43V58.71c0-4.92-3.99-8.91-8.91-8.91H58.7c-4.92,0-8.91,3.99-8.91,8.91v120.13c0,3.81,2.44,7.17,6.04,8.42,7.49,2.62,12.82,9.7,12.82,17.67,0,11.75-11.56,18.75-18.75,18.75-.04,0-.08,0-.11,0v310c0,94.38,76.51,170.89,170.89,170.89h123.89c94.38,0,170.89-76.51,170.89-170.89V230.99c0-3.81-2.45-7.14-6.04-8.43-7.23-2.6-12.4-9.51-12.4-17.63Z"/>
+  </g>
+</svg>
